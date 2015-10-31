@@ -1,0 +1,2 @@
+# myPythonProject
+First python project
